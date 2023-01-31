@@ -23,5 +23,5 @@
 [alias]
 	history = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 [user]
-	name = "Andrey Rumyantsev"
-	mail = andreylrr@gmail.com
+	name = "User Name"
+	mail = user_name@www.com
